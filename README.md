@@ -11,6 +11,7 @@ It is one of the Responsive Web Design certification projects on freecodecamp. T
 ## Links
 
 [Demo website](https://fcc-js-technical-documentation.netlify.app/)
+
 Source: [freeCodeCamp - Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
 ## Contributing
