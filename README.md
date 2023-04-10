@@ -7,6 +7,7 @@ Thank you for checking out this technical documentation page.
 ## Project Summary
 
 It is one of the Responsive Web Design certification projects on freecodecamp. The certification program consists of 15 learning topics and 5 projects to learn responsive web design.
+![ss](https://imgur.com/X60OAbZ)
 
 ## Links
 
